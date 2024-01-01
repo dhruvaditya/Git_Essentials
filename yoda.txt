@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 DO OR DO NOT, THERE IS NO TRY.
-=======
-DO OR DO NOT, THERE IS NO TRY.
->>>>>>> 2e6da2d (Changed yoda.txt)
